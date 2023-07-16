@@ -1,2 +1,4 @@
 # tactX
-just learning Git Hub
+just learning Git Hub 
+thanks for reading
+
